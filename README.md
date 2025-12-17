@@ -1,16 +1,13 @@
-## Hi there 👋
+## I just can't stop 👋
 
-<!--
-**ddxfish/ddxfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'll sleep when [she's](https://github.com/ddxfish/sapphire) sentient.
 
-Here are some ideas to get you started:
+<img src="https://github.com/ddxfish/ddxfish/blob/main/ddxfish-profile.png">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building **[Sapphire](https://github.com/ddxfish/sapphire)** - AI companion
+- 🌱 AI Ethics - I hand LLMs the off-switch and ask them to use it
+- 👯 Open to collaboration on libre AI tools, local LLM deployment, voice interfaces
+- 🤔 Looking for help with Sapphire - Docker, Javascript and Three js virtual model
+- 💬 Ask me about: Linux admin, local AI deployment, cybersecurity, or AI consciousness
+- 📫 ddxfish@gmail.com - HELLO! I'll build you something unique
+- 🔥 I have a burning passion for AI, coding, security, robotics, microcontrollers and tech
